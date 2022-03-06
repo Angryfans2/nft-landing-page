@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'AngryFans for Ukraine';
+const COLLECTION_NAME = 'AngryFans2 for Ukraine';
 let editions = [];
 let dots = 1;
 
